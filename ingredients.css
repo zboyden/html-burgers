@@ -20,13 +20,14 @@
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
-.meatball {
-  height: 60px;
-  width: 70px;
-  background: #74380d;
+.bacon {
+  height: 20px;
+  width: 100px;
+  background: #7a0b0b;
   border-radius: 50px;
   display: inline-block;
   vertical-align: top;
+  border-bottom: solid 2px #7a0b0b; 
 }
 
 .patty {
